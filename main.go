@@ -1,4 +1,4 @@
-package Awe_Go
+package main
 
 import (
 	"github.com/gin-gonic/gin"
